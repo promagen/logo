@@ -1,5 +1,18 @@
 # logo
 logo of promager
++ [Logo](https://logo.promagen.com/)
+
++ [Dokumentacja projektu](https://docs.promagen.com/)
+
++ [Blog](https://blog.promagen.com/)
+
++ [www.promagen.com](https://www.promagen.com/)
+
+
++ [Aplikacja frontendowa laczaca sie z api](https://app.promagen.com/)
+
++ [Dostep API](https://api.promagen.com/)
+
 
 ## 14
 [14/profile.png](14/profile.png)
